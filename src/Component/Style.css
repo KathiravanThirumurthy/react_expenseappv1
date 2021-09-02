@@ -1,0 +1,39 @@
+.header{
+    color: #e49023;
+    font-size: 25px;
+}
+.displayheader
+{
+    color: #331d01;
+    font-size: 20px;
+    
+}
+.displayIncome
+{
+    color: #28a745;
+    font-size: 20px;
+    text-align: center
+}
+.displayExpense{
+    color: #dc3545;
+    font-size: 20px;
+    text-align: center
+}
+
+.labelalign {
+     /* !important added for priority in SO snippet. */
+    
+    font-size: 15px;
+    display: block;
+    text-align: left;
+    
+}
+.listdisplay
+{
+    font-size: 18px;
+}
+.smalltext {
+    font-size:14px;
+    display: block;
+    text-align:left;
+    }
